@@ -5,7 +5,7 @@ I'm a **Full Stack Developer** passionate about building modern web applications
 - 🔭 Currently working on: Full Stack projects using **Next.js** & **Spring Boot**
 - 🌱 Currently learning: **SEO**, **Advanced TypeScript**, **Cloud Deployment**
 - ⚡ Fun facts:  
-  - I'm a **productivity geek** 🖤  
+  - I'm a huge **productivity geek** 🖤  
   - I love **keyboard shortcuts** and **automation** (AHK, window management, i3, productivity tools)
 
 ---
