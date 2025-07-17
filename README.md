@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nikola Djermanović!
+# 👋 Hello, I'm Nikola Djermanovic!
 
 I'm a **Full Stack Developer** passionate about building modern web applications that are fast, responsive, and user-friendly. I enjoy working across the entire stack, from crafting sleek frontends to designing robust backends and working with databases. Always eager to learn new technologies and improve my skills.
 
