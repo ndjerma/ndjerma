@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Nikola Djermanovic!
 
-I'm a **Full Stack Developer** passionate about building modern web applications that are fast, responsive, and user-friendly. I enjoy working across the entire stack, from crafting sleek frontends to designing robust backends and working with databases. Always eager to learn new technologies and improve my skills.
+I'm an **aspiring Full Stack Developer** passionate about building modern web applications that are fast, responsive, and user-friendly. I enjoy working across the entire stack, from crafting sleek frontends to designing robust backends and working with databases. Always eager to learn new technologies and improve my skills.
 
 - 🔭 Currently working on: Full Stack projects using **Next.js** & **Spring Boot**
-- 🌱 Currently learning: **SEO**, **Advanced TypeScript**, **Cloud Deployment**
+- 🌱 Currently learning: **Writing Unit tests**, **JUnit**
 - ⚡ Fun facts:  
   - I'm a huge **productivity geek** 🖤  
   - I love **keyboard shortcuts** and **automation** (AHK, window management, i3, productivity tools)
@@ -17,7 +17,6 @@ I'm a **Full Stack Developer** passionate about building modern web applications
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
@@ -57,7 +56,7 @@ I'm a **Full Stack Developer** passionate about building modern web applications
 ---
 
 📫 **All my socials & links:**  
-  🌴 [Linktree](https://linktr.ee/YOUR_LINK_HERE)
+  🌴 [Linktree](https://linktr.ee/djermanovicnikola)
 
 ---
 
