@@ -6,7 +6,7 @@ I'm an **aspiring Full Stack Developer** passionate about building modern web ap
 - 🌱 Currently learning: **Writing Unit tests**, **JUnit**
 - ⚡ Fun facts:  
   - I'm a huge **productivity geek** 🖤  
-  - I love **keyboard shortcuts** and **automation** (AHK, window management, i3, productivity tools)
+  - I love **keyboard shortcuts** and **automation** (N8N, AHK, window management, i3, productivity tools)
 
 ---
 
