@@ -2,8 +2,8 @@
 
 I'm an **aspiring Full Stack Developer** passionate about building modern web applications that are fast, responsive, and user-friendly. I enjoy working across the entire stack, from crafting sleek frontends to designing robust backends and working with databases. Always eager to learn new technologies and improve my skills.
 
-- 🔭 Currently working on: Full Stack projects using **Next.js** & **Spring Boot**
-- 🌱 Currently learning: **Writing Unit tests**, **JUnit**
+- 🔭 Currently working on: Full Stack projects using **TypeScript**, **React** & **MongoDB**
+- 🌱 Currently learning: **React**
 - ⚡ Fun facts:  
   - I'm a huge **productivity geek** 🖤  
   - I love **keyboard shortcuts** and **automation** (N8N, AHK, window management, i3, productivity tools)
