@@ -1,60 +1,33 @@
-# 👋 Hello, I'm Nikola Djermanovic!
+# Hi, I'm Nikola (Johnny) 👋
 
-I'm an **aspiring Full Stack Developer** passionate about building modern web applications that are fast, responsive, and user-friendly. I enjoy working across the entire stack, from crafting sleek frontends to designing robust backends and working with databases. Always eager to learn new technologies and improve my skills.
+Full-stack developer focused on backend — building with Node.js, TypeScript, and React.
+Final-year Software Engineering student at Singidunum University, Belgrade.
 
-- 🔭 Currently working on: Full Stack projects using **TypeScript**, **React** & **MongoDB**
-- 🌱 Currently learning: **React**
-- ⚡ Fun facts:  
-  - I'm a huge **productivity geek** 🖤  
-  - I love **keyboard shortcuts** and **automation** (N8N, AHK, window management, i3, productivity tools)
+I'm currently working through a structured backend roadmap (Node.js, PostgreSQL, Docker, system design)
+and building real projects as I go.
 
----
-
-# 💻 Tech Stack
-
-## 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+🚀 **Portfolio & projects:** [devquill.vercel.app](https://devquill.vercel.app)
 
 ---
 
-## 🖥️ Backend
+## What I'm building with
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
----
-
-## 🗄️ Databases & Servers
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## A bit more
+
+- 🔭 Currently working on: backend fundamentals — PostgreSQL, Docker, CI/CD, REST API design
+- 🌍 Looking for: junior backend or full-stack roles, remote, Europe
+- ⚡ Also into: productivity systems, keyboard automation, n8n workflows
 
 ---
 
-📫 **All my socials & links:**  
-  🌴 [Linktree](https://linktr.ee/djermanovicnikola)
-
----
+📫 [LinkedIn](https://www.linkedin.com/in/djermanovicnikola/) · [devquill.vercel.app](https://devquill.vercel.app)
