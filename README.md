@@ -3,9 +3,6 @@
 Full-stack developer focused on backend — building with Node.js, TypeScript, and React.
 Final-year Software Engineering student at Singidunum University, Belgrade.
 
-I'm currently working through a structured backend roadmap (Node.js, PostgreSQL, Docker, system design)
-and building real projects as I go.
-
 🚀 **Portfolio & projects:** [devquill.vercel.app](https://devquill.vercel.app)
 
 ---
