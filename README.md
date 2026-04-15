@@ -1,6 +1,6 @@
 # Hi, I'm Nikola (Johnny) 👋
 
-Full-stack developer focused on backend — building with Node.js, TypeScript, and React.
+Full-stack developer, currently focused on mastering React fundamentals.
 Final-year Software Engineering student at Singidunum University, Belgrade.
 
 🚀 **Portfolio & projects:** [devquill.vercel.app](https://devquill.vercel.app)
@@ -19,9 +19,7 @@ Final-year Software Engineering student at Singidunum University, Belgrade.
 
 ---
 
-## A bit more
-
-- 🔭 Currently working on: backend fundamentals — PostgreSQL, Docker, CI/CD, REST API design
+- 🔭 Currently working on: React fundamentals — State, Hooks, Architecture
 - 🌍 Looking for: junior backend or full-stack roles, remote, Europe
 - ⚡ Also into: productivity systems, keyboard automation, n8n workflows
 
