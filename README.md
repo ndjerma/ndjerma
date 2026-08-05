@@ -4,6 +4,7 @@ Full-stack developer.
 Final-year Software Engineering student at Singidunum University, Belgrade.
 
 🚀 **Portfolio & projects:** [devquill.vercel.app](https://devquill.vercel.app)
+
 💻 **Small SaaS I'm currently working on:** [lesson-lynx.vercel.app](https://lesson-lynx.vercel.app/)
 
 ---
