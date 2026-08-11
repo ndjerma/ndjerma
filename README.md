@@ -19,7 +19,6 @@ Final-year Software Engineering student at Singidunum University, Belgrade.
 
 ---
 
-- 🔭 Currently working on: React fundamentals — State, Hooks, Architecture
 - 🌍 Looking for: junior backend or full-stack roles, remote, Europe
 - ⚡ Also into: productivity systems, keyboard automation, n8n workflows
 
